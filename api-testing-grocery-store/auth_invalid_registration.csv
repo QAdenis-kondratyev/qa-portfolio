@@ -1,0 +1,7 @@
+clientName,clientEmail,expectedStatus,expectedErrorContains
+"without email field in json Denis Kondr QA",OMIT,400,client email
+"empty email Denis Kondr QA","",400,client email
+OMIT,"denisK.qa.test@example.com",400,client name
+"","denisK.qa.test@example.com",400,client name
+"Duplicate Denis Kondr QA","denisK.qa.testexample.com",400,client email
+"12345678","denisK.qa.test@example.com",400,client name
