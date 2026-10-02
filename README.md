@@ -3,7 +3,7 @@
 **Junior QA Engineer (Manual → Automation)** · Petah Tikva, Israel · 🇬🇧 English · 🇮🇱 Hebrew · 🇷🇺 Russian
 
 [![Email](https://img.shields.io/badge/Email-kdenis2808%40gmail.com-red?logo=gmail&logoColor=white)](mailto:kdenis2808@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-PROFILE)
+[![LinkedIn](https://www.linkedin.com/in/denis-kondratyev-qa/?isSelfProfile=true)
 [![Course](https://img.shields.io/badge/Technion-Software%20QA%20%26%20Automation-0A66C2)](#education)
 
 Three end-to-end QA projects covering the full testing lifecycle: **requirements analysis before development → API testing → audit of a live production web app.** Each folder contains the real artifacts (test plans, test cases, bug reports, Postman collections, reports) plus a README with methodology and results.
